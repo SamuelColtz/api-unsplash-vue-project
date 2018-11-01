@@ -2,10 +2,6 @@
 
 <img src="./showcases/first.png" alt="">
 
-<img src="./showcases/thrith.png" alt="">
-
-<img src="./showcases/second.png" alt="">
-
 ## Build Setup
 
 ``` bash
